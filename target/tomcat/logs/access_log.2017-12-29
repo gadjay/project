@@ -1,0 +1,15 @@
+0:0:0:0:0:0:0:1 - - [29/Dec/2017:00:02:06 +0800] "GET /gadjay/index.do?temp=100 HTTP/1.1" 200 15793 http-bio-9090-exec-1 158178
+0:0:0:0:0:0:0:1 - - [29/Dec/2017:00:04:24 +0800] "GET /gadjay/index.do?temp=100 HTTP/1.1" 200 15793 http-bio-9090-exec-3 75933
+0:0:0:0:0:0:0:1 - - [29/Dec/2017:00:05:13 +0800] "GET /gadjay/index.do?temp=100 HTTP/1.1" 200 15793 http-bio-9090-exec-4 29081
+0:0:0:0:0:0:0:1 - - [29/Dec/2017:00:06:53 +0800] "GET /gadjay/index.do?temp=100 HTTP/1.1" 200 15793 http-bio-9090-exec-5 87501
+0:0:0:0:0:0:0:1 - - [29/Dec/2017:00:10:34 +0800] "GET /gadjay/index.do?temp=100 HTTP/1.1" 200 15793 http-bio-9090-exec-1 1138
+0:0:0:0:0:0:0:1 - - [29/Dec/2017:00:12:55 +0800] "GET /gadjay/index.do?temp=100 HTTP/1.1" 200 15793 http-bio-9090-exec-3 161
+0:0:0:0:0:0:0:1 - - [29/Dec/2017:00:13:29 +0800] "GET /gadjay/index.do?temp=100 HTTP/1.1" 200 15793 http-bio-9090-exec-4 435
+0:0:0:0:0:0:0:1 - - [29/Dec/2017:00:14:17 +0800] "GET /gadjay/index.do?temp=100 HTTP/1.1" 200 15793 http-bio-9090-exec-5 1388
+0:0:0:0:0:0:0:1 - - [29/Dec/2017:00:15:47 +0800] "GET /gadjay/index.do?temp=100 HTTP/1.1" 200 15793 http-bio-9090-exec-1 914
+0:0:0:0:0:0:0:1 - - [29/Dec/2017:00:16:37 +0800] "GET /gadjay/text.do HTTP/1.1" 200 477 http-bio-9090-exec-2 12
+0:0:0:0:0:0:0:1 - - [29/Dec/2017:00:17:04 +0800] "GET /gadjay/text.do HTTP/1.1" 200 15793 http-bio-9090-exec-3 35
+0:0:0:0:0:0:0:1 - - [29/Dec/2017:00:17:12 +0800] "GET /gadjay/text.do HTTP/1.1" 200 15793 http-bio-9090-exec-4 17
+0:0:0:0:0:0:0:1 - - [29/Dec/2017:00:17:14 +0800] "GET /gadjay/text.do HTTP/1.1" 200 15793 http-bio-9090-exec-5 16
+0:0:0:0:0:0:0:1 - - [29/Dec/2017:00:18:04 +0800] "GET /gadjay/index.do?temp=10000 HTTP/1.1" 200 1540654 http-bio-9090-exec-6 24742
+0:0:0:0:0:0:0:1 - - [29/Dec/2017:00:18:18 +0800] "GET /gadjay/text.do HTTP/1.1" 200 1540654 http-bio-9090-exec-7 158
